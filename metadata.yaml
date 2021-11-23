@@ -1,5 +1,8 @@
 _repo: La-petite-femme-de-la-mer_66652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66652-h/images/cover.jpg
 creator:
   author:
     agent_name: Lemonnier, Camille
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Camille_Lemonnier
     - https://fr.wikipedia.org/wiki/Camille_Lemonnier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66652#La-petite-femme-de-la-mer
 gutenberg_issued: '2021-11-02'
 identifiers:
   gutenberg: '66652'
